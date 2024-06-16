@@ -1,0 +1,38 @@
+.card {
+    width: 375px;
+    height: 812px;
+    background-color: black ;
+    z-index: -2;
+    box-sizing: border-box;
+    position: relative;
+    
+}
+.face {
+    position: absolute; 
+    right: -11px;
+    top: 57px;
+    height: 323px;
+    
+}
+.logo {
+    
+    height:407px ;
+    width: 372px;
+    
+}
+h3 {
+    position: relative;
+    font-weight: 300;
+    font-family:Georama;
+    font-size: 56px;
+    left: 10px;
+}
+p {
+    position: relative ;
+    top: -50px;
+    left: 10px;
+    font-family: Encode Sans Semi Expanded ;
+    font-weight: 20;
+    font-size: 24px;
+
+} 
