@@ -26,9 +26,11 @@ h3 {
     font-family:Georama;
     font-size: 56px;
     left: 10px;
+    color: white;
 }
 p {
     position: relative ;
+    color: white;
     top: -50px;
     left: 10px;
     font-family: Encode Sans Semi Expanded ;
